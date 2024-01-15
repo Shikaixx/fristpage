@@ -1,0 +1,46 @@
+header {
+			font-family: 'Outfit', sans-serif;
+			background-color: #1a488e;
+			color: #eae6e5;
+			padding: 20px 0;
+			text-align: center;
+		}
+		nav a {
+            text-decoration: none;
+            color: #1e2025;
+            font-weight: bold;
+        }
+
+        nav a:hover {
+            color: #eae6e5;
+        }
+		section {
+			font-family: 'Outfit', sans-serif;
+			flex: 0 0 80%;
+			background-color: #092147;
+			color: #eae6e5;
+			padding: 20px;
+			height: 80vh;
+		}
+		figure {
+			font-family: 'Outfit', sans-serif;
+			flex: 0 0 80%;
+			background-color: #092147;
+			color: #eae6e5;
+			padding: 20px;
+		}
+		footer {
+			font-family: 'Outfit', sans-serif;
+			background-color: #97b2de;
+			color: #1a488e;
+			padding: 20px 0;
+			text-align: center;
+		}
+		#contact {
+			text-decoration: none;
+            color: #1a488e;
+            font-weight: bold;
+		}
+		#contact:hover {
+			color: #eae6e5;
+		}
